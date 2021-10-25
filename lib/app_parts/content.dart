@@ -125,7 +125,7 @@ class ButtonsWidget extends StatelessWidget {
                 style: textStyle,
               ),
               Text(
-                '+38 066 79 16 875',
+                '+38 099 747 25 94',
                 style: textStyle,
               )
             ],
@@ -155,7 +155,7 @@ class ButtonsWidget extends StatelessWidget {
                 style: textStyle,
               ),
               Text(
-                'miroshnikov21.ua@gmail.com',
+                'miroshnikov@gmail.com',
                 style: textStyle,
               )
             ],
